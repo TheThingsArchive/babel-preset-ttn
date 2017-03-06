@@ -1,0 +1,19 @@
+{
+  "name": "babel-preset-ttn",
+  "version": "1.0.0",
+  "description": "A babel preset for ttn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheThingsNetwork/babel-preset-ttn.git"
+  },
+  "author": "Romeo Van Snick <romeo@thethingsnetwork.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheThingsNetwork/babel-preset-ttn/issues"
+  },
+  "homepage": "https://github.com/TheThingsNetwork/babel-preset-ttn#readme"
+}
