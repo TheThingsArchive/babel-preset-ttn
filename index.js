@@ -6,5 +6,6 @@ module.exports = {
   ],
   plugins: [
     "transform-runtime",
+    "source-map-support-for-6",
   ],
 }
