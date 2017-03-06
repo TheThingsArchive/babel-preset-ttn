@@ -8,4 +8,5 @@ module.exports = {
     "transform-runtime",
     "source-map-support-for-6",
   ],
+  sourceMaps: "inline",
 }
