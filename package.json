@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-ttn",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A babel preset for ttn",
   "main": "index.js",
   "scripts": {
