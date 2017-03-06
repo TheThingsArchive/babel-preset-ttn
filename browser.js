@@ -1,6 +1,11 @@
 module.exports = {
   presets: [
-    [ "es2015", { modules: false } ],
+    [
+      "es2015",
+      {
+        modules: false,
+      },
+    ],
     "stage-0",
     "react",
   ],
@@ -23,5 +28,5 @@ module.exports = {
         "array-includes",
       ],
     },
-  }
+  },
 }

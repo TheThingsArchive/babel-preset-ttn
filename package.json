@@ -36,5 +36,15 @@
     "babel-preset-stage-0": "^6.22.0",
     "babel-runtime": "^6.23.0",
     "source-map-support": "^0.4.11"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.0",
+    "eslint-config-ttn": "^1.0.7"
+  },
+  "eslintConfig": {
+    "extends": "ttn",
+    "rules": {
+      "import/no-commonjs": "off"
+    }
   }
 }
