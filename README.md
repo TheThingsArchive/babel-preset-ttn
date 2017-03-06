@@ -16,7 +16,15 @@ yarn add babel-preset-ttn --dev
 And add the followong to your `package.json`:
 
 ```
-  "babel": {
-    "presets": [ "ttn" ]
-  }
+"babel": {
+  "presets": [ "ttn" ]
+}
+```
+
+or, if you are targetting browsers:
+
+```
+"babel": {
+  "presets": [ "ttn/browser" ]
+}
 ```
