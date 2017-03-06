@@ -6,6 +6,7 @@ module.exports = {
   ],
   plugins: [
     "transform-runtime",
+    "transform-dirname-filename",
     "source-map-support-for-6",
   ],
   sourceMaps: "inline",
